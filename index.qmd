@@ -1,0 +1,43 @@
+---
+title: "Tetiana Pavliuk"
+---
+
+# Hello!
+
+## My name is Tania and I am social scientist
+
+![it\`s me!!](photo_2022-02-07_15-55-10.jpg){fig-align="left" width="356"}
+
+I am in data analysis, social network analysis and social values studies. It is kind of my personal passion: to learn something new about people, about relationship between them and about mechanisms which rule whole society. It is not only work for me, it is where I get my daily inspiration!
+
+### Research interests
+
+Political & Social Values, Political Opinion, Electoral Behavior, Political & Civic Participation
+
+### My projects
+
+[1. my first site with Quarto]{.underline}
+
+*heeeey, I\`m doing it right now!*
+
+[2. social network analysis for Ukrainian NGO]{.underline}
+
+*It is my project for USAID program in Ukraine - PACT. This is important work for understanding how Ukrainian civic society works and how we can develop it*
+
+[3. term paper]{.underline}
+
+*Now I am conducting a research about network of students\` values which help them to be the most active social group in Ukrainian society, to be the main participants of all political movements in Ukraine*
+
+## My contacts
+
+### Mail
+
+trpavliuk\@gmail.com
+
+### Phone (Telegram available)
+
++380664603341
+
+::: {.callout-note style="color: grey"}
+## saturday and sunday are weekends! {style="color: blue"}
+:::
