@@ -2,4 +2,10 @@
 title: "About me"
 ---
 
-About this site
+Some facts about me!
+
+# My hobbies
+
+besides my work & academic project I have a lot of hobbies, like music, photographing, flowering and cooking
+
+[![*the piece of my hobby: my lovely flowers*](images/IMG_3305.JPG){fig-align="center"}](https://en.wikipedia.org/wiki/Geranium)
