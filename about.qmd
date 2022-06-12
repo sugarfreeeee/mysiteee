@@ -8,4 +8,4 @@ Some facts about me!
 
 besides my work & academic project I have a lot of hobbies, like music, photographing, flowering and cooking
 
-[![*the piece of my hobby: my lovely flowers*](images/IMG_3305.JPG){fig-align="center"}](https://en.wikipedia.org/wiki/Geranium)
+[![the piece of my hobby: my lovely flowers](images/IMG_3305.JPG){fig-align="center"}](https://en.wikipedia.org/wiki/Geranium)
