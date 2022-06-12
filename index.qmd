@@ -6,7 +6,7 @@ title: "Tetiana Pavliuk"
 
 ## My name is Tania and I am social scientist
 
-![it\`s me!!](images/photo_2022-02-07_15-55-10.jpg){fig-align="left" width="356"}
+![that\`s me!!](images/photo_2022-02-07_15-55-10.jpg){fig-align="left" width="356"}
 
 I am in data analysis, social network analysis and social values studies. It is kind of my personal passion: to learn something new about people, about relationship between them and about mechanisms which rule whole society. It is not only work for me, it is where I get my daily inspiration!
 
